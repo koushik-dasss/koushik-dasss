@@ -7,7 +7,7 @@ An ambitious full-stack developer from India currently pursuing an undergraduate
 
 <p align="left"> <a href="https://twitter.com/koushiktwts" target="blank"><img src="https://img.shields.io/twitter/follow/koushiktwts?logo=twitter&style=for-the-badge" alt="koushiktwts" /></a> </p>
 
-- 🌱 I’m currently learning ** JAVA, HTML, CSS, JS**
+- 🌱 I’m currently learning **JAVA, HTML, CSS, JS**
 
 - 💬 Ask me about **JAVA, Python**
 
