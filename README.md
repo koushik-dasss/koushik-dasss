@@ -1,10 +1,10 @@
 # Hey there! I'm Koushik 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Competitive+Programmer;Investor;Aspiring+Tech+Entrepreneur)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;)
 
 ### 🚀 About Me  
 - 🎯 Learning **MERN | Java Spring | Python Full Stack**
-- 💡 Exploring **System Design & DSA**
+- 💡 Exploring **DSA & building full stack products**
 - 📈 Aspiring to build  **Software Products**
 - 🔥 Love **Building & Breaking Tech**
 
@@ -23,8 +23,7 @@
 ### 📊 My GitHub Stats  
 | **Stats** | **Streak** | **Languages** |
 | --- | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik-dasss&show_icons=true&theme=tokyonight) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushik-dasss&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-dasss&layout=compact&theme=tokyonight)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik-dasss&show_icons=true&theme=tokyonight) |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushik-dasss&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-dasss&layout=compact&theme=tokyonight)
 
 
 ---
