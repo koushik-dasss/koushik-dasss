@@ -23,7 +23,7 @@
 ### 📊 My GitHub Stats  
 | **Stats** | **Streak** | **Languages** |
 | --- | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik-dasss&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushik-dasss&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-dasss&layout=compact&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik-dasss&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=koushik-dasss&theme=tokyonight) | ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=koushik-dasss&theme=tokyonight) |
 
 
 ---
